@@ -28,7 +28,7 @@ www.esd-secure.taboola.com.edgekey.net
 nr.taboola.com
 api.taboola.com
 c2.taboola.com
-https://cdn.taboola.com
+cdn.taboola.com
 urc.taboolasyndication.com
 taboola.com.edgekey.net
 esd-secure.taboola.com.edgekey.net
@@ -46,3 +46,4 @@ sync.outbrain.com
 tr.outbrain.com
 vrp.outbrain.com
 vrt.outbrain.com
+paid.outbrain.com
